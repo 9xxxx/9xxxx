@@ -1,6 +1,6 @@
 * cybersec; networking 
 
-* computer science
+* computer science, software engineer
 
 * forensics
 
